@@ -21,7 +21,7 @@ The goal of this project is to build an ***intelligent chatbot application*** th
         streamlit run main.py        
         ```
 ---
-#### Project Demo Vide
+#### Project Demo Video
 [![Watch the video]](https://drive.google.com/file/d/162bJYUPS64iBwZVJ9WIf7ulmTQTt0ktx/view?usp=sharing)
 ---
 #### Project Structure
