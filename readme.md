@@ -21,6 +21,9 @@ The goal of this project is to build an ***intelligent chatbot application*** th
         streamlit run main.py        
         ```
 ---
+#### Project Demo Vide
+[![Watch the video]](https://drive.google.com/file/d/162bJYUPS64iBwZVJ9WIf7ulmTQTt0ktx/view?usp=sharing)
+---
 #### Project Structure
 * As practice in class, project business logic is in ***bl*** 
 * ***assets, styles*** folder for storing css and images and other details
